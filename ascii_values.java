@@ -1,4 +1,4 @@
-public class practice2 {
+public class ascii_values{
     public static void main(String[]args)
     {
         for(char c='A';c<='Z';c++)
